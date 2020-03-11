@@ -21,3 +21,6 @@ datasets/titanic
 datasets/words
 datasets/jsb_chorales
 
+.idea/
+.python-version
+.venv*
